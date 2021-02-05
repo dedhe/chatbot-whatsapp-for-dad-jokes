@@ -17,7 +17,7 @@ client.on('ready', () => {
 
 client.on('message', msg => {
 
-    let txt = msg.body.split(" ")
+    let txt = msg.body.toLowerCase().split(" ")
     if (txt.includes('joke') || txt.includes('jokes')) {
         msg.reply(dadJokes.random())
     }
