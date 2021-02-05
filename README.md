@@ -14,3 +14,6 @@ app will generate qrcode , <b> scan </b> qrcode until u get message <b>'Client i
 
 try to send message to your number like <b> Give me a joke </b> or <b>"tell me a joke" </b> or any sentence where there is a joke in it
 and then the app will reply it with a random <b>dad joke</b>
+
+<b> Note </b> <br>
+WhatsApp does not allow bots or unofficial clients on their platform, so this shouldn't be considered totally safe.
